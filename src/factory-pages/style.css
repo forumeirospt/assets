@@ -148,6 +148,11 @@ background-color: #272822 !important;
 padding-right: 0 !important;
 text-shadow: 1px 1px 0 #1B1C18;
 }
+.prettyprint.linenums li {
+    list-style-type: decimal !important;
+    background-color: transparent !important;
+}
+
             .copy-btn {
 position: absolute;
 top: 8px;
@@ -158,6 +163,10 @@ color: #fff;
             .copy-btn:hover {
 color: #fff !important;
             }
+
+code .com {
+color: #ffffff;
+}
 code .pln {
     color: #c5c8c6;
 }
