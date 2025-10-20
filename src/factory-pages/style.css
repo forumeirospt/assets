@@ -1,3 +1,6 @@
+.fm-post-item {
+position: relative;
+}
 [id^="p"].module dl.codebox, .content blockquote, .message-block .message-text blockquote, .message-block .message-text dl.codebox, .panel .content dl.codebox, .panel .postbody .content blockquote, .panel .table .row1 blockquote, .panel .table1 .row1 dl.codebox, .post .postbody .content blockquote, .post .postbody .content dl.codebox, .search .postbody blockquote, .search .postbody dl.codebox {
 background: #e7edf3 none repeat scroll 0 0;
 border: 0 none;
