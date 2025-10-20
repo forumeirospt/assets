@@ -148,14 +148,15 @@ background-color: #272822 !important;
 padding-right: 0 !important;
 text-shadow: 1px 1px 0 #1B1C18;
 }
-            .prettyprint * {
-               color: #fafafa !important;
-            }
             .copy-btn {
-                position: absolute;
-                top: 8px;
-                right: 8px;
-                z-index: 100;
+position: absolute;
+top: 8px;
+right: 8px;
+z-index: 100;
+color: #fff;
+            }
+            .copy-btn:hover {
+color: #fff !important;
             }
 dl.codebox code {
     overflow: auto;
