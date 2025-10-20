@@ -1492,6 +1492,14 @@
       ]
     },
     {
+      "t": "113439",
+      "list": 2,
+      "cat": 7,
+      "title": "Como criar mensagens moderativas",
+      "desc": "As mensagens de moderação são a solução prefeita para quem quer um fórum organizado, em termos de moderação em postagens, de acordo com as suas regras! Com elas poderá alertar alguma ocorrência efetuada pelo usuário, por exemplo.",
+      "versions": [0, 11]
+    },
+    {
       "t": "23170",
       "list": 2,
       "cat": 6,
@@ -1670,12 +1678,6 @@
       "list": 2,
       "cat": 7,
       "title": "Sistema de medalhas com descrição ao passar o mouse"
-    },
-    {
-      "t": "113439",
-      "list": 2,
-      "cat": 7,
-      "title": "Como criar mensagens moderativas"
     },
     {
       "t": "113331",
