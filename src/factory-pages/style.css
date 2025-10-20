@@ -28,9 +28,7 @@ height: auto !important;
 
 dl.codebox {
     padding: 3px;
-    background-color: #FFF;
-    border: 1px solid #C9D2D8;
-    font-size:1em
+    border-radius: 3px;
 }
 
 dl.codebox dt {
