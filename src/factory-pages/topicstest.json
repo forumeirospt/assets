@@ -565,7 +565,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Colorir o título dos tópicos",
-      "desc": "-"
+      "desc": "As vezes para destacarmos um tópico colocamos-o como fixo ou como um anúncio, mas junto com ele existem vários outros, então, para que um tópico possa ter mais destaque, é possível colorir o título do mesmo com diversas cores predefinidas"
     },
     {
       "t": "384",
@@ -613,7 +613,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Criar e gerir a mensagem na Home Page",
-      "desc": "-"
+      "desc": "A mensagem da Home Page é exibida no ínidice (página inicial) do seu fórum. Ela pode conter algumas infromações relevantes para o funcionamento do fórum, avisos e todos os outros tipos de conteúdos que desejar. Ela funciona como uma mensagem mas também pode ser escrita utilizando HTML, o que possibilita mais funções."
     },
     {
       "t": "9649",
@@ -621,7 +621,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Fixar / anunciar um tópico e personalizar post-it e anúncio",
-      "desc": "-"
+      "desc": "Através dos tópicos especiais, poderá destacar a posição de um determinado tópico, chamando assim a atenção dos usuários para a sua leitura! Pois a principal função que os tópicos especiais têm para os membros, é que estes os devem ler assim que surjam nos fóruns!"
     },
     {
       "t": "95433",
@@ -629,7 +629,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Gerenciamento do BBcode H2, H3 e H4",
-      "desc": "-"
+      "desc": "No HTML usamos o código \"font \" para atribuir tamanhos e cores a caracteres em texto específico ou geral. Outro elemento básico do HTML que permite aumentar o tamanho da fonte da letra é o h2, h3 ou h4. Vamos através deste tutorial compreender o seu funcionamento e como personalizá-lo de acordo com as cores do seu fórum."
     },
     {
       "t": "27247",
@@ -637,7 +637,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Gerir a função de anexar arquivos (anexos)",
-      "desc": "-"
+      "desc": "Às vezes gostaríamos de adicionar arquivos em nossas mensagens no fórum, mas sem ter que hospedar antes em um serviço distinto do fórum, sendo que também o anexo ficará numa caixa junto à mensagem. Agora poderá ter esta opção, todos os anexos serão guardados dentro do Estoque do fórum, ocupando o espaço que você determinar."
     },
     {
       "t": "21090",
@@ -645,7 +645,7 @@
       "cat": 3,
       "subcat": 3,
       "title": "Inserir descrição em tópicos",
-      "desc": "-"
+      "desc": "Quando criamos um tópico e desejamos que o membro tenha um prévio conhecimento do que será tratado no tópico, além do título, podemos utilizar uma descrição, que será exibida em letras menores abaixo do título na visualização das categorias."
     },
     {
       "t": "26579",
