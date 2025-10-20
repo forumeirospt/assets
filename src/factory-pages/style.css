@@ -158,6 +158,33 @@ color: #fff;
             .copy-btn:hover {
 color: #fff !important;
             }
+code .pln {
+    color: #c5c8c6;
+}
+code .pun {
+    color: #c5c8c6;
+}
+code .lit {
+    color: #de935f;
+}
+code .kwd {
+    color: #b294bb;
+}
+code .tag {
+    color: #c66;
+}
+code .atv {
+    color: #8abeb7;
+}
+code .atn {
+    color: #de935f;
+}
+code .str {
+    color: #b5bd68;
+}
+.codebox code.prettyprint.linenums {
+    font-size: 14px;
+}
 dl.codebox code {
     overflow: auto;
     display: block;
@@ -168,7 +195,8 @@ dl.codebox code {
     font: .9em Courier, CourierNew, sans-serif;
     line-height: 1.3em;
     color: #2E8B57;
-    margin:2px 0
+    margin:2px 0;
+    padding: 7px 15px;
 }
 .tuto-off.ann .tuto-title, .tuto-off.news .tuto-title {
     background:#39c url(https://2img.net/i.imgur.com/l7s6MA7.png) no-repeat scroll 0 -4px !important
