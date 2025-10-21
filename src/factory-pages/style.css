@@ -1,10 +1,5 @@
-    .backdrop-blur-xl {
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-    }
-
     [data-fm-faq="categories"] {
-      transition: transform 0.3s ease, opacity 0.3s ease;
+      transition: transform 0.3s ease, opacity 0.3s ease, background-color 0.3s ease;
     }
 
     [data-fm-faq="categories"].hide {
