@@ -5,11 +5,11 @@
     flex-wrap: wrap;
     gap: 1rem;
 }
-
 .author {
     display: flex;
     align-items: center;
     margin: 0;
+      margin-left: auto;
 }
 
 .author img {
