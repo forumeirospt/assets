@@ -1634,32 +1634,6 @@
       "versions": [0]
     },
     {
-      "t": "93905",
-      "list": 2,
-      "cat": 6,
-      "subcat": 5,
-      "title": "Personalizar links de downloads externos",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
-    },
-    {
-      "t": "89460",
-      "list": 2,
-      "cat": 6,
-      "subcat": 5,
-      "title": "Cor na seleção de texto",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
-    },
-    {
       "t": "114170",
       "list": 2,
       "cat": 7,
