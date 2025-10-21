@@ -1,5 +1,7 @@
     [data-fm-faq="categories"] {
       transition: transform 0.3s ease, opacity 0.3s ease, background-color 0.3s ease;
+      margin-top: 2rem; 
+      border-radius: 3px;
     }
 
     [data-fm-faq="categories"].hide {
@@ -11,7 +13,6 @@
       transform: translateY(0);
       opacity: 1;
     }
-
 .fm-post-item {
 position: relative;
 }
