@@ -13,11 +13,7 @@
 }
 
 .author img {
-    margin-right: 0.5rem;
-    border-radius: 50%;
-    width: 32px;
-    height: 32px;
-    object-fit: cover;
+    display: none;
 }
 
 .profile-icons {
