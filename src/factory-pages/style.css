@@ -1,7 +1,5 @@
     [data-fm-faq="categories"] {
       transition: transform 0.3s ease, opacity 0.3s ease, background-color 0.3s ease;
-      margin-top: 2rem; 
-      border-radius: 3px;
     }
 
     [data-fm-faq="categories"].hide {
@@ -12,6 +10,10 @@
     [data-fm-faq="categories"].slide-down {
       transform: translateY(0);
       opacity: 1;
+padding: 0.5rem;
+border-radius: 3px;
+position: sticky;
+top: 13px;
     }
 .fm-post-item {
 position: relative;
