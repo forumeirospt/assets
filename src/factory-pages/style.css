@@ -1,4 +1,35 @@
-    [data-fm-faq="categories"] {
+  .fm-post-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+.author img {
+    margin-right: 0.5rem;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+
+.profile-icons {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+[data-fm-faq="categories"] {
       transition: transform 0.3s ease, opacity 0.3s ease, background-color 0.3s ease;
     }
 
@@ -31,12 +62,6 @@ padding: 7px 15px;
 
 dl.codebox:not(.spoiler) dt, .profile-icons li:empty, .profile-icons img[onclick="togglePostMultiQuote(this);"], .profile-icons a[href$="mode=quote"], .profile-icons a[href$="mode=delete"], .profile-icons a[href*="mode=ip"], .profile-icons a[href$="mode=editpost"] {
 display: none !important;
-}
-.author {
-position: absolute;
-top: 18px;
-margin: 0;
-width: max-content;
 }
 .faq-off img {
 max-width: 100% !important;
@@ -345,13 +370,6 @@ li.thumb-msg span a {
     text-decoration: none;
 }
 
-.profile-icons {
-display: flex;
-width: 100%;
-justify-content: end;
-list-style: none;
-gap: .75rem;
-}
 .profile-icons li:empty,
 .topic-title {
 display: none;
