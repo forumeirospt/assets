@@ -1,10 +1,15 @@
 [data-fm-faq="categories"] {
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
-[data-fm-faq="categories"].d-none {
+[data-fm-faq="categories"].hide {
+  transform: translateY(-100%);
   opacity: 0;
-  transform: translateY(-10px);
+}
+
+[data-fm-faq="categories"].slide-down {
+  transform: translateY(0);
+  opacity: 1;
 }
 
 .fm-post-item {
