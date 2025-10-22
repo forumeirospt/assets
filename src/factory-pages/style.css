@@ -270,3 +270,8 @@ span.thumb-up {
     align-items: center;
     gap: 0.25rem;
 }
+
+span.thumb-up a {
+    --bs-link-color-rgb: 218, 237, 209;
+    text-decoration: none;
+}
