@@ -210,7 +210,7 @@ dl.codebox code {
 
 .tuto-off.ann .tuto-title, .tuto-off.news .tuto-title { background:#39c url(https://2img.net/i.imgur.com/l7s6MA7.png) no-repeat scroll 0 -4px !important; }
 
-.faq-off { background-color: #f7f7f7; border-right: 1px solid #ddd; width: 100%; position: relative; }
+.tuto-ast-off, .tuto-jur, .tuto-jur-contain, .tuto-off { background-color: #f7f7f7; border-right: 1px solid #ddd; width: 100%; position: relative; border-spacing: 0; }
 
 .faq-footer { background-color: #333; border-radius: 0 0 10px; color: #fff; font-family: sans-serif; font-size: .9em; width: 100%; }
 
