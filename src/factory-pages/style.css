@@ -7,6 +7,7 @@
     position: relative;
 }
 
+dl.codebox dt,
 .author {
     display: flex;
     align-items: center;
@@ -75,15 +76,6 @@ dl.codebox {
     background-color: #272822 !important;
     padding-right: 0 !important;
     text-shadow: 1px 1px 0 #1B1C18;
-}
-
-dl.codebox dt {
-    text-transform: uppercase;
-    border-bottom: 1px solid #CCC;
-    margin-bottom: 3px;
-    font-size: .8em;
-    font-weight: 700;
-    display: block;
 }
 
 blockquote dl.codebox {
@@ -185,6 +177,7 @@ blockquote dl.codebox {
     color: #fff !important;
 }
 
+.prettyprint.linenums li { list-style-type: decimal !important; background-color: #272822; }
 code .typ { color: #fafafa; }
 code .com { color: #ffffff; }
 code .pln { color: #c5c8c6; }
@@ -214,6 +207,8 @@ dl.codebox code {
 .topic-title {
     display: none;
 }
+
+.tuto-off.ann .tuto-title, .tuto-off.news .tuto-title { background:#39c url(https://2img.net/i.imgur.com/l7s6MA7.png) no-repeat scroll 0 -4px !important; }
 
 .faq-off { background-color: #f7f7f7; border-right: 1px solid #ddd; width: 100%; position: relative; }
 
