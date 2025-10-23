@@ -1659,103 +1659,137 @@
       "t": "113681",
       "list": 2,
       "cat": 7,
-      "title": "Sistema de medalhas com descrição ao passar o mouse"
+      "title": "Sistema de medalhas com descrição ao passar o mouse",
+      "desc": "Com este tutorial mostrarei a melhor forma de premiar um membro no seu fórum.",
+      "versions": [0]
     },
     {
       "t": "113331",
       "list": 2,
       "cat": 7,
-      "title": "Permitir que apenas administradores apagem tópicos"
+      "title": "Permitir que apenas administradores apagem tópicos",
+      "desc": "Neste tutorial, mostrarei uma maneira fácil de permitir que apenas administradores excluam um tópico. Os moderadores e outros grupos com essa permissão não poderão mais excluir um tópico, a menos que alguém tenha acesso ao painel do administrador e, portanto, seja um administrador.",
+      "versions": [0]
     },
     {
       "t": "113083",
       "list": 2,
       "cat": 7,
-      "title": "Alterar o ícone do tópico em modo AJAX"
+      "title": "Alterar o ícone do tópico em modo AJAX",
+      "desc": "Por vezes torna-se cansativo ter que editar os tópicos para alterar o ícone dele. Com este tutorial, você poderá diretamente alterar o ícone no topo do tópico. O ícone será alterado pelo o que foi escolhido sem que a página tenha que ser recarregada.",
+      "versions":[0]
     },
     {
       "t": "112877",
       "list": 2,
       "cat": 7,
-      "title": "FancyBox nas imagens"
+      "title": "FancyBox nas imagens",
+      "desc": "Com este tutorial, será possível adicionar personalizar o efeito da visualização das imagens.",
+      "versions": [0]
     },
     {
       "t": "112824",
       "list": 2,
       "cat": 7,
-      "title": "Criar campos na criação do tópico"
+      "title": "Criar campos na criação do tópico",
+      "desc": "Com este tutorial, será possível adicionar mais campos de preenchimento na criação de um novo tópico.",
+      "versions": [0]
     },
     {
       "t": "112054",
       "list": 2,
       "cat": 7,
-      "title": "Avatar no membro mencionado"
+      "title": "Avatar no membro mencionado",
+      "desc": "Com este tutorial, ao mencionar um membro, o avatar deste membro aparecerá à esquerda da menção.",
+      "versions": [0]
     },
     {
       "t": "112033",
       "list": 2,
       "cat": 7,
-      "title": "Criar um botão da FontAwesome no SCEditor"
+      "title": "Criar um botão da FontAwesome no SCEditor",
+      "desc": "Com este tutorial, você poderá inserir um botão com todos os ícones da FontAwesome no seu SCEditor. A novidade é que ele conta cum uma caixa de busca instantânea.",
+      "versions": [0]
     },
     {
       "t": "111841",
       "list": 2,
       "cat": 7,
-      "title": "Trancar o tópico na criação"
+      "title": "Trancar o tópico na criação",
+      "desc": "Para prosseguir nesse tutorial é necessário ser o fundador do fórum. Neste tutorial poderemos trancar o tópico quando estivermos criando ele.",
+      "versions": [0]
     },
     {
       "t": "111840",
       "list": 2,
       "cat": 7,
-      "title": "Botão copiar código"
+      "title": "Botão copiar código",
+      "desc": "Com este código, irá ser gerado um botão de copiar no codebox de seu fórum que facilitará a copia do conteúdo do mesmo.",
+      "versions": [0]
     },
     {
       "t": "111839",
       "list": 2,
       "cat": 7,
-      "title": "Personalizar a paleta de cores do SCEditor"
+      "title": "Personalizar a paleta de cores do SCEditor",
+      "desc": "Com este tutorial, será possível modificar o número de cores disponíveis na barra e quais cores você deseja nela num estilo elegante. Este tutorial pode ser aplicado para todas as versões.",
+      "versions": [0]
     },
     {
       "t": "110573",
       "list": 2,
       "cat": 7,
-      "title": "Tags nos tópicos"
+      "title": "Tags nos tópicos",
+      "desc": "Permite que os usuários definam tags personalizadas para tópicos.",
+      "versions": [0]
     },
     {
       "t": "110572",
       "list": 2,
       "cat": 7,
-      "title": "Sistema de prefixo nos tópicos"
+      "title": "Sistema de prefixo nos tópicos",
+      "desc": "Neste tutorial será ensinado como colocar um sistema de prefixos na página de resposta dos tópicos. Este código é interessante para fóruns que querem se manter mais organizados.",
+      "versions": [0]
     },
     {
       "t": "108520",
       "list": 2,
       "cat": 7,
-      "title": "Limitar a altura de citações"
+      "title": "Limitar a altura de citações",
+      "desc": "Com este tutorial, será possível reduzir o tamanho das citações nos tópicos quando elas passarem de N pixels de altura, adicionando um botão para o usuário expandir a citação para seu tamanho natural.",
+      "versions": [0]
     },
     {
       "t": "108132",
       "list": 2,
       "cat": 7,
-      "title": "Remover \"Última edição por...\" nos tópicos"
+      "title": "Remover \"Última edição por...\" nos tópicos",
+      "desc": "Esse tutorial vai te ajudar a esconder a frase \"Última edição por...\" em todas as mensagens do fórum, ou em somente algumas especificamente.",
+      "versions": [0]
     },
     {
       "t": "108128",
       "list": 2,
       "cat": 7,
-      "title": "Organizar os tópicos por separadores"
+      "title": "Organizar os tópicos por separadores",
+      "desc": "Permite em um tópico, adicionar abas conectadas à outros tópicos do fórum ou páginas.",
+      "versions": [0]
     },
     {
       "t": "107420",
       "list": 2,
       "cat": 7,
-      "title": "Publicar na resposta rápida em ajax com avisos"
+      "title": "Publicar na resposta rápida em ajax com avisos",
+      "desc": "As vezes gostaríamos de postar mensagens sem necessidade de recarregar a pagina. Com esse tutorial isto será possível, e além disto terá avisos como por exemplo: Você pode postar, você deve ter X caracteres para poder postar.",
+      "versions": [0]
     },
     {
       "t": "107135",
       "list": 2,
       "cat": 7,
-      "title": "Emoticons pessoais por membro"
+      "title": "Emoticons pessoais por membro",
+      "desc": "Muitas vezes não gostamos dos emoticons disponibilizados por certos fóruns. Este tutorial resolverá o problema, pois ele ensinará como permitir que os membros adicionem e usem os seus próprios emoticons pessoais.",
+      "versions":[0]
     },
     {
       "t": "105897",
