@@ -1821,12 +1821,6 @@
     ]
     },
     {
-      "t": "98380",
-      "list": 2,
-      "cat": 7,
-      "title": "Salvamento de mensagens em progresso"
-    },
-    {
       "t": "97785",
       "list": 2,
       "cat": 7,
@@ -1843,12 +1837,6 @@
       "list": 2,
       "cat": 7,
       "title": "Ficha de personagem em lightbox"
-    },
-    {
-      "t": "86579",
-      "list": 2,
-      "cat": 7,
-      "title": "Auto embed em vídeos do youtube"
     },
     {
       "t": "86559",
