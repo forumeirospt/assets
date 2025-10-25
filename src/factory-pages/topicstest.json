@@ -1795,19 +1795,30 @@
       "t": "105897",
       "list": 2,
       "cat": 7,
-      "title": "Adicionar novas fontes no SCEditor"
+      "title": "Adicionar novas fontes no SCEditor",
+      "desc": "As vezes gostaríamos de adicionar novas fontes no SCeditor. Neste tutorial vamos aprender como é possível adicionar novas fontes.",
+      "versions": [0]
     },
     {
       "t": "105530",
       "list": 2,
       "cat": 7,
-      "title": "Bloquear tópico sem refresh"
+      "title": "Bloquear tópico sem refresh",
+      "desc": "As vezes gostaríamos de bloquear um tópico rapidamente. Neste tutorial vamos bloquear os tópicos sem precisar mudar de página.",
+      "versions": [0]
     },
     {
       "t": "98754",
       "list": 2,
       "cat": 7,
-      "title": "Esconder a primeira mensagem dos convidados"
+      "title": "Esconder a primeira mensagem dos convidados",
+      "desc": "Os fóruns hoje em dia querem meio que privilegiar os membros que assim registram no fórum com seus conteúdos. Algumas vezes queremos que algum conteúdo fique oculto aos visitantes e assim para que eles despertem a vontade de registrar e ver o conteúdo. Neste tutorial é isso que iremos ensinar, um meio de esconder a mensagem principal ao visitante.",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+    ]
     },
     {
       "t": "98380",
