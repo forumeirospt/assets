@@ -2003,7 +2003,7 @@
       "list": 2,
       "cat": 7,
       "title": "Botão SCEditor: melhoria tag code",
-      "desc": "O tutorial a seguir irá melhorar o botão \"code \" do SCEditor, criando um pequeno dropdown ao clicar no botão, para que o código possa ser inserido corretamente no editor.",
+      "desc": "O tutorial a seguir irá melhorar o botão \"code\" do SCEditor, criando um pequeno dropdown ao clicar no botão, para que o código possa ser inserido corretamente no editor.",
       "versions": [0]
     },
     {
@@ -2019,7 +2019,8 @@
       "list": 2,
       "cat": 7,
       "title": "SCEditor habilitado no clique",
-      "desc": "Com este tutorial, você poderá personalizar seu editor e abrir um sistema de ferramentas."
+      "desc": "Com este tutorial, você poderá personalizar seu editor e abrir um sistema de ferramentas.",
+      "versions": [0]
     },
     {
       "t": "112338",
