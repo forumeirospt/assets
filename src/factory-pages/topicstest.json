@@ -1818,61 +1818,113 @@
       "t": "97785",
       "list": 2,
       "cat": 7,
-      "title": "Pesquisa com resultados automáticos"
+      "title": "Pesquisa com resultados automáticos",
+      "desc": "Nesse tutorial iremos colocar um efeito que ao clicar no botão Busca - localizado no menu, e ao escrever algumas palavras automáticamente aparecerá alguns resultados logo abaixo.",
+      "versions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "t": "96843",
       "list": 2,
       "cat": 7,
-      "title": "Aplicando foto de capa em tópicos"
+      "title": "Aplicando foto de capa em tópicos",
+      "desc": "Com edição de templates e um pouco de criatividade você poderá obter um efeito exclusivo em fóruns de Forumeiros, a foto de capa no fórum tipo blog. Como já disponibilizamos a mesma para a opção direto no perfil, este novo recurso visa utilizar o mesmo padrão só que, para tópicos do fórum tipo BLOG.",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "t": "80640",
       "list": 2,
       "cat": 7,
-      "title": "Ficha de personagem em lightbox"
+      "title": "Ficha de personagem em lightbox",
+      "desc": "É comum acedermos ao perfil de algum membro para visualizar sua ficha de personagem, mas, nem sempre temos paciência de esperar a página carregar, então neste tutorial iremos aprender a colocar a ficha de personagem em tooltip, fazendo assim uma apresentação mais rápida e muito mais elegante. Ele funcionará da seguinte forma, ao clicarmos no nome do usuário de algum utilizador o efeito é ativado e a ficha de personagem é automaticamente mostrada.",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "t": "86559",
       "list": 2,
       "cat": 7,
-      "title": "Avatar na resposta rápida"
+      "title": "Avatar na resposta rápida",
+      "desc": "Neste tutorial, aplicaremos um código JavaScript para criar um efeito incrível, permitindo ao usuário a visualizar o avatar do membro ao lado da caixa de respostas rápidas.",
+      "versions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "t": "86580",
       "list": 2,
       "cat": 7,
-      "title": "Parar o redirecionamento ao votar em um tópico"
+      "title": "Parar o redirecionamento ao votar em um tópico",
+      "desc": "Com este tutorial, fica mais rápido e eficaz conceder a reputação para um membro, sem ter uma página de redirecionamento para que, enfim, você volte para a página de começo.",
+      "versions": [0]
     },
     {
       "t": "90655",
       "list": 2,
       "cat": 7,
-      "title": "Substituir conteúdo da mensagem pelos links de registo e login para visitantes"
+      "title": "Substituir conteúdo da mensagem pelos links de registo e login para visitantes",
+      "desc": "Deseja abrir um subfórum para o público e não quer que visitantes leiam sua mensagem? Isso é possível sem modificar o controle de autorizações de seu fórum, usando um simples jQuery.",
+      "versions": [0]
     },
     {
       "t": "90653",
       "list": 2,
       "cat": 7,
-      "title": "Visualizar tópico em modo hover"
+      "title": "Visualizar tópico em modo hover",
+      "desc": "Nesse tutorial iremos aplicar um ícone ao lado de cada tópico, onde podemos visualizar a postagem proporcionando a visualização mais rápida dos tópicos, facilitando o nosso tempo e navegação por todo o fórum.",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "t": "92125",
       "list": 2,
       "cat": 7,
-      "title": "Confirmar antes de responder a um tópico"
+      "title": "Confirmar antes de responder a um tópico",
+      "desc": "Por varias vezes em muitos fóruns desejamos que tem um sistema para confirmar se deseja ou não responder a um determinado tópico. Neste tutorial iremos mostrar como colocar esta função em vossos fóruns.",
+      "versions": [0]
     },
     {
       "t": "92121",
       "list": 2,
       "cat": 7,
-      "title": "Context menu para ações nos tópicos"
+      "title": "Context menu para ações nos tópicos",
+      "desc": "Neste tutorial, podemos criar um context menu para ações no tópico. Uma ferramenta que permitirá usar funções rapidamente nos tópicos. Editando, citando, excluindo mensagens e tópicos.",
+      "versions": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "t": "91430",
       "list": 2,
       "cat": 7,
-      "title": "Citação mais eficaz e rápida"
+      "title": "Citação mais eficaz e rápida",
+      "desc": "Neste tutorial será posto um código Ajax que fará com que toda vez que clique no link quote ao invés de abrir uma nova página desça a barra de rolagem até a resposta rápida já com o quote e seu conteúdo.",
+      "versions": [0]
     },
     {
       "t": "61137",
