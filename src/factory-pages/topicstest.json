@@ -1930,73 +1930,89 @@
       "t": "61137",
       "list": 2,
       "cat": 7,
-      "title": "Usar JavaScript de sites externos"
+      "title": "Usar JavaScript de sites externos",
+      "desc": "Com um efeito em JavaScrit, podemos usar o javascript de outros sites/blogs ou até fóruns! Com esse código, você estará respeito os direitos do autor de um fórum, porque não copiará o código JS sem adicionar o endereço do fórum em questão!",
+      "versions": [0]
     },
     {
       "t": "115589",
       "list": 2,
       "cat": 7,
-      "title": "Som ao receber notificações"
+      "title": "Som ao receber notificações",
+      "desc": "Por meio deste tutorial será possível adicionar um efeito sonoro ao receber uma notificação no fórum. No entanto, é importante reforçar que a barra de ferramentas deve estar ativada.",
+      "versions": [0]
     },
     {
       "t": "115586",
       "list": 2,
       "cat": 7,
-      "title": "Apagar todas as mensagens de um membro"
+      "title": "Apagar todas as mensagens de um membro",
+      "desc": "Por vezes, é necessário excluir todas as mensagens de um membro, como por exemplo em situações de flood ou desrespeito em diversas mensagens. A fim de evitar o esforço dos administradores de fóruns, criamos este código para excluir todas as publicações deste usuário com apenas um clique.",
+      "versions": [0]
     },
     {
       "t": "114517",
       "list": 2,
       "cat": 7,
-      "title": "Página para alternar contas"
+      "title": "Página para alternar contas",
+      "desc": "Com esse script você poderá escolher com qual conta entrar no seu fórum.",
+      "versions": [0]
     },
     {
       "t": "101589",
       "list": 2,
       "cat": 7,
-      "title": "Função Ajax ao banir um membro"
+      "title": "Função Ajax ao banir um membro",
+      "desc": "Que tal ao banir um determinado membro, a ação fosse feita na hora! Sem a atualização da página? Com este tutorial nos estaremos ensinando a como fazer tal função em seu fórum.",
+      "versions": [0]
     },
     {
       "t": "108902",
       "list": 2,
       "cat": 7,
-      "title": "Modificar os botões do SCEditor para ícones da FontAwesome"
+      "title": "Modificar os botões do SCEditor para ícones da FontAwesome",
+      "desc": "O tutorial a seguir permite que o usuário troque todos os botões do SCEditor para FontAwesome icons.",
+      "versions": [0]
     },
     {
       "t": "110560",
       "list": 2,
       "cat": 7,
-      "title": "Lista de membros com AJAX ao final da página"
+      "title": "Lista de membros com AJAX ao final da página",
+      "desc": "Com este tutorial aplicado em seu fórum, você poderá consultar a lista de membros em tempo real (usando AJAX) em um pequeno botão no canto inferior esquerdo da tela, como aqui no Fórum dos Fóruns.",
+      "versions": [0]
     },
     {
       "t": "108519",
       "list": 2,
       "cat": 7,
-      "title": "Procurar membros em ordem alfabética"
+      "title": "Procurar membros em ordem alfabética",
+      "desc": "Com este tutorial, ao procurar um membro na lista de membros do fórum, você perceberá que será mais fácil pois teremos como escolher por ordem alfabética a ordem dos nomes apresentados.",
+      "versions": [0]
     },
     {
       "t": "108900",
       "list": 2,
       "cat": 7,
-      "title": "Entrar utilizando o e-mail"
-    },
-    {
-      "t": "108904",
-      "list": 2,
-      "cat": 7,
-      "title": "Botão SCEditor: Spotify"
+      "title": "Entrar utilizando o e-mail",
+      "desc": "Permite que os usuários façam log in com o e-mail ao invés do nome de usuário.",
+      "versions": [0]
     },
     {
       "t": "108903",
       "list": 2,
       "cat": 7,
-      "title": "Botão SCEditor: melhoria tag code"
+      "title": "Botão SCEditor: melhoria tag code",
+      "desc": "O tutorial a seguir irá melhorar o botão \"code \" do SCEditor, criando um pequeno dropdown ao clicar no botão, para que o código possa ser inserido corretamente no editor.",
+      "versions": [0]
     },
     {
       "t": "93903",
       "list": 2,
       "cat": 7,
-      "title": "Botão SCEditor: Fullscreen"
+      "title": "Botão SCEditor: Fullscreen",
+      "desc": "Neste tutorial, podemos adicionar uma função Javascript que será possível expandir o SCEditor (Editor Forumeiros) para que a caixa digitação fique em tela cheia.",
+      "versions": [0]
     },
     {
       "t": "112338",
