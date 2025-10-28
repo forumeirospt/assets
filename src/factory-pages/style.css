@@ -8,6 +8,13 @@
     overflow: hidden;
 }
 
+.sceditor-container iframe,
+.sceditor-container textarea {
+    width: 100% !important;
+    box-sizing: border-box !important;
+    display: block;
+}
+
 .fm-post-item {
     display: flex;
     justify-content: flex-start;
