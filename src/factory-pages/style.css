@@ -1,3 +1,13 @@
+.sceditor-button,  .sceditor-button div {
+    box-sizing: content-box;
+}
+.sceditor-container {
+    width: 100% !important;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
 .fm-post-item {
     display: flex;
     justify-content: flex-start;
