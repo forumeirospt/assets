@@ -349,6 +349,14 @@
       "desc": "O sistema anti-flood permite que se mantenha um controlo automatico sobre os membros em função das suas mensagens, evitando o envio de mensagens consecutivas poe período de tempo definido pelos administradores dos Fóruns."
     },
         {
+      "t": "9256",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Adicionar questões à FAQ do Fórum",
+      "desc": "Com a FAQ podemos colocar dúvidas e as respostas frequentes sobre determinado tema e assunto pelo qual desejamos. Tendo assim a nossa própria categoria para adicionar as questões que os usuários se interrogam mais."
+    },
+        {
       "t": "108992",
       "list": 1,
       "cat": 3,
@@ -596,7 +604,7 @@
       "list": 1,
       "cat": 3,
       "subcat": 3,
-      "title": "Configurar a ferramenta \"Fale conosco\"",
+      "title": "Configurar a ferramenta \"Fale connosco\"",
       "desc": "A função Fale connosco permite o envio de uma mensagem, que pode ser de email ou mensagem privada para um determinado grupo de usuários, os administradores ou os moderadores. Ela pode ser escrita por membros do fórum tanto pelos convidados. Ela pdoe ser encontrada no rodapé de todas as páginas do fórum."
     },
     {
