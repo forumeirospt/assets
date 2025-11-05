@@ -3,17 +3,33 @@
 }
 .sceditor-container {
     width: 100% !important;
-    max-width: 100%;
-    box-sizing: border-box;
-    overflow: hidden;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    overflow-x: hidden !important;
+    display: block !important;
 }
 
 .sceditor-container iframe,
 .sceditor-container textarea {
     width: 100% !important;
+    max-width: 100% !important;
+    height: calc(100% - 30px) !important;
+    display: block !important;
     box-sizing: border-box !important;
-    display: block;
+    overflow-x: hidden !important;
+    margin: 0 !important;
+    padding: 8px !important;
 }
+
+.sceditor-resize-cover {
+    display: none !important;
+}
+
+.sceditor-container * {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+}
+
 
 .fm-post-item {
     display: flex;
