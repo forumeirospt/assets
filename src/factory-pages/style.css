@@ -13,7 +13,7 @@
 .sceditor-container textarea {
     width: 100% !important;
     max-width: 100% !important;
-    height: calc(100% - 30px) !important;
+   /* height: calc(100% - 30px) !important; */
     display: block !important;
     box-sizing: border-box !important;
     overflow-x: hidden !important;
