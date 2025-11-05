@@ -21,6 +21,13 @@
     padding: 8px !important;
 }
 
+.sceditor-container source,
+.sceditor-container .sceditor-toolbar {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
 .sceditor-container.sceditor-source-mode .sceditor-toolbar {
     display: block !important;
 }
