@@ -1,34 +1,28 @@
-.sceditor-button,  .sceditor-button div {
-    box-sizing: content-box;
-}
+
 .sceditor-container {
     width: 100% !important;
     max-width: 100% !important;
     box-sizing: border-box !important;
     overflow: hidden !important;
     display: block !important;
-}
-.sceditor-button.sceditor-button-servimg div {
-background-image: url(https://illiweb.com/rs3/11/frm/SCEditor/src/themes/famfamfam.png);
-background-repeat: no-repeat;
-height: 16px;
-width: 16px;
-background-position: 0 -644px;
+    position: relative;
 }
 
-.sceditor-container iframe, 
-.sceditor-container textarea:not([style="display: none;"]) {
+.sceditor-container textarea {
+    display: none !important; 
+}
+
+.sceditor-container iframe {
     width: 100% !important;
     max-width: 100% !important;
-   /* height: calc(100% - 30px) !important; */
-    display: block !important;
+    height: 300px !important;
     box-sizing: border-box !important;
-    overflow-x: hidden !important;
-    margin: 0 !important;
     padding: 8px !important;
+    margin: 0 !important;
+    display: block !important;
+    overflow: auto !important;
 }
 
-.sceditor-container source,
 .sceditor-container .sceditor-toolbar {
     display: block !important;
     visibility: visible !important;
@@ -43,10 +37,28 @@ background-position: 0 -644px;
     display: none !important;
 }
 
+.sceditor-button, .sceditor-button div {
+    box-sizing: content-box !important;
+}
+
+.sceditor-button.sceditor-button-servimg div {
+    background-image: url(https://illiweb.com/rs3/11/frm/SCEditor/src/themes/famfamfam.png);
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    background-position: 0 -644px;
+}
+
 .sceditor-container *:not(.sceditor-button) {
     max-width: 100% !important;
     box-sizing: border-box !important;
 }
+
+.sceditor-container.resizable iframe {
+    height: auto !important;
+    min-height: 200px;
+}
+
 
 
 .fm-post-item {
