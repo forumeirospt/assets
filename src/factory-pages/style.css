@@ -21,6 +21,10 @@
     padding: 8px !important;
 }
 
+.sceditor-container.sceditor-source-mode .sceditor-toolbar {
+    display: block !important;
+}
+
 .sceditor-resize-cover {
     display: none !important;
 }
