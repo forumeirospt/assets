@@ -8,9 +8,8 @@
     overflow: hidden !important;
     display: block !important;
 }
-
-.sceditor-container iframe,
-.sceditor-container textarea {
+.sceditor-container iframe, 
+.sceditor-container textarea:not([style="display: none;"]) {
     width: 100% !important;
     max-width: 100% !important;
    /* height: calc(100% - 30px) !important; */
