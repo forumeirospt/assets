@@ -8,6 +8,14 @@
     overflow: hidden !important;
     display: block !important;
 }
+.sceditor-button.sceditor-button-servimg div {
+background-image: url(https://illiweb.com/rs3/11/frm/SCEditor/src/themes/famfamfam.png);
+background-repeat: no-repeat;
+height: 16px;
+width: 16px;
+background-position: 0 -644px;
+}
+
 .sceditor-container iframe, 
 .sceditor-container textarea:not([style="display: none;"]) {
     width: 100% !important;
