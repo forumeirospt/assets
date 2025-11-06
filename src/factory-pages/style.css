@@ -1,3 +1,6 @@
+.sceditor-container iframe {
+margin-top: 3rem;
+}
 .sceditor-container {
     width: 100% !important;
     max-width: 100% !important;
