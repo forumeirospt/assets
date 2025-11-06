@@ -1,6 +1,7 @@
 .sceditor-container {
     width: 100% !important;
     max-width: 100% !important;
+    min-height: 350px;
     box-sizing: border-box !important;
     overflow: visible !important;
     display: block !important;
