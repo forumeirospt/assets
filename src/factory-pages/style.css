@@ -1,6 +1,3 @@
-.sceditor-container iframe {
-margin-top: 3rem;
-}
 .sceditor-container {
     width: 100% !important;
     max-width: 100% !important;
@@ -9,17 +6,6 @@ margin-top: 3rem;
     overflow: visible !important;
     display: block !important;
     position: relative !important;
-}
-
-.sceditor-container iframe {
-    width: 100% !important;
-    max-width: 100% !important;
-    height: 300px !important; 
-    min-height: 200px;
-    box-sizing: border-box !important;
-    padding: 8px !important;
-    display: block !important;
-    overflow: auto !important;
 }
 
 .sceditor-container .sceditor-toolbar {
@@ -33,6 +19,17 @@ margin-top: 3rem;
     opacity: 1 !important;
 }
 
+.sceditor-container iframe {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 300px !important;
+    min-height: 200px;
+    box-sizing: border-box !important;
+    padding: 8px !important;
+    display: block !important;
+    overflow: auto !important;
+    margin-top: 2.5rem !important;
+}
 
 .sceditor-container.sceditor-source-mode .sceditor-toolbar {
     display: block !important;
