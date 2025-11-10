@@ -285,6 +285,22 @@
       "desc": "A supressão de um fórum o tornará inacessível permanentemente (Condições implícitas no conteúdo da FAQ)."
     },
     {
+      "t": "74971",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Barra de Ferramentas",
+      "desc": "Com esta nova funcionalidade em nossos fóruns, é possível agora, ter acesso fácil a menus rápidos e, até mesmo, a uma central de notificações que te informa, desde a solicitação de uma mensagem, até a criação de alertas para seu usuário!."
+    },
+    {
+      "t": "22396",
+      "list": 1,
+      "cat": 3,
+      "subcat": 1,
+      "title": "Conexão rápida",
+      "desc": "Muitas vezes quando queremos nos conectar de maneira rápida ao fórum, é necessário que haja uma caixa de login de fácil acesso! Com esta funcionalidade isso é possível, com ela ativa-se uma caixa de login na home-page (página onde estão as categorias) do fórum."
+    },
+    {
       "t": "23026",
       "list": 1,
       "cat": 3,
