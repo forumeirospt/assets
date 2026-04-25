@@ -14,7 +14,7 @@
       "list": 1,
       "cat": 1,
       "subcat": 1,
-            "date": "2025-09-25",
+      "date": "2025-09-25",
       "title": "Conheça o painel administrativo",
       "desc": "Através do Painel administrativo, podemos controlar nosso fórum de uma forma geral. Podendo assim, adicionar, editar ou remover cada detalhe, de cada parte do fórum. Podemos melhorar a aparência, adicionar conteúdo, enfim, podemos fazer de tudo, com poucas restrições."
     },
@@ -229,33 +229,34 @@
     {
       "t": "96165",
       "list": 1,
-      "title": "O meu fórum sofre uma penalidade do Google",
       "cat": 2,
+      "title": "O meu fórum sofre uma penalidade do Google",
       "desc": "Uma perda de visitas no seu fórum, ou uma diminuição de posição nas páginas de resultados do Google?"
     },
     {
       "t": "44898",
       "list": 1,
-      "title": "Troca de tráfego",
       "cat": 2,
+      "title": "Troca de tráfego",
       "desc": "Aumente o SEO com a interligação dos tópicos semelhantes dos fóruns Forumeiros."
     },
     {
       "t": "21150",
       "list": 1,
-      "title": "Compartilhar um tópico",
       "cat": 2,
+      "title": "Compartilhar um tópico",
       "desc": "Em todos os tópicos do fórum agora aparece um novo link \"Compartilhar\", que abre um menu que lista todas as suas redes sociais favoritas. (54 serviços)"
     },
     {
       "t": "35000",
       "list": 1,
-      "title": "O que são bots e sua finalidade",
       "cat": 2,
+      "title": "O que são bots e sua finalidade",
       "desc": "Na maioria das vezes e na maioria dos fóruns aparecem os motores de busca nas estatísticas. Agora saberemos quem são e para que servem!"
     },
     {
       "t": "100134",
+      "list": 1,
       "cat": 2,
       "title": "Interagir fórum com redes sociais",
       "desc": "A dinâmica dos fóruns da #Forumeiros permite que o seu conteúdo seja compartilhado e interligado aos motores de busca de uma maneira fácil e automática. Com esta FAQ lhe ensinaremos a promover seu fórum nas redes sociais."
@@ -364,7 +365,7 @@
       "title": "Sistema anti-flood",
       "desc": "O sistema anti-flood permite que se mantenha um controlo automatico sobre os membros em função das suas mensagens, evitando o envio de mensagens consecutivas poe período de tempo definido pelos administradores dos Fóruns."
     },
-        {
+    {
       "t": "9256",
       "list": 1,
       "cat": 3,
@@ -372,7 +373,7 @@
       "title": "Adicionar questões à FAQ do Fórum",
       "desc": "Com a FAQ podemos colocar dúvidas e as respostas frequentes sobre determinado tema e assunto pelo qual desejamos. Tendo assim a nossa própria categoria para adicionar as questões que os usuários se interrogam mais."
     },
-        {
+    {
       "t": "108992",
       "list": 1,
       "cat": 3,
@@ -491,9 +492,7 @@
       "subcat": 2,
       "title": "Gerenciar a função \"Lançar dados\"",
       "desc": "O sistema de dados está intimamente ligado as fichas de personagem e aos campos do módulo RPG. A sua função deve ser definida pelo administrador pelo que o mesmo pensa que seja a melhor utilidade. A sua função é um jogo de sorte ao fazer o lançamento de dados, como os mesmos são computados dependerá do modo como o administrador escolher.",
-      "versions": [
-        10
-      ]
+      "versions": [10]
     },
     {
       "t": "13951",
@@ -766,9 +765,7 @@
       "subcat": 3,
       "title": "Variáveis do fórum",
       "desc": "As variáveis são responsáveis por armazenar valores correspondentes a algo no fórum (os valores destas variáveis são actualizados automaticamente) e, podemos atravéz de códigos visualizar o valor contado por cada variável.",
-      "versions": [
-        10
-      ]
+      "versions": [10]
     },
     {
       "t": "16564",
@@ -929,9 +926,7 @@
       "subcat": 1,
       "title": "Permitir assinaturas e suas permissões",
       "desc": "Uma assinatura é uma mensagem personalizada que é exibida abaixo de cada mensagem do publicador. Como configurá-lo?",
-      "versions": [
-        10
-      ]
+      "versions": [10]
     },
     {
       "t": "25756",
@@ -964,9 +959,7 @@
       "subcat": 1,
       "title": "Escolha e configuração de avatares",
       "desc": "Quando regista-se em um fórum, tem a opção de adicionar um avatar no seu perfil.",
-      "versions": [
-        10
-      ]
+      "versions": [10]
     },
     {
       "t": "22010",
@@ -1031,9 +1024,7 @@
       "subcat": 3,
       "title": "Gestão da Ficha de personagem e o Módulo RPG",
       "desc": "Este tutorial detalha o procedimento para ativar e configurar uma folha de personagem.",
-      "versions": [
-        10
-      ]
+      "versions": [10]
     },
     {
       "t": "118077",
@@ -1042,9 +1033,7 @@
       "subcat": 3,
       "title": "Seguimento entre membros no fórum",
       "desc": "Membros a seguir são os membros que segues e queres receber notificações do conteúdo deles, como: novos tópicos e mensagens (dependendo das preferências do perfil). Uma forma interessante de descobrir cada publicação de um membro específico.",
-      "versions": [
-        10
-      ]
+      "versions": [10]
     },
     {
       "t": "25528",
@@ -1085,9 +1074,7 @@
       "subcat": 4,
       "title": "Moderadores: Como moderar",
       "desc": "Uma ferramenta para moderar o fórum eficazmente.",
-      "versions": [
-        11
-      ]
+      "versions": [11]
     },
     {
       "t": "110577",
@@ -1208,12 +1195,7 @@
       "subcat": 1,
       "title": "Adicionar opacidade aos ícones da barra de navegação",
       "desc": "Este tutorial irá lhe ensinar como poderá deixar a imagem do menu de navegação do seu fórum com diferentes níveis de cor, variando de uma cor total até uma cor mais opaca. Como o menu principal é um ponto onde muitos membros acedem, é interessante que seja feita algumas modificações no mesmo.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "46958",
@@ -1222,12 +1204,7 @@
       "subcat": 1,
       "title": "Personalizar a caixa de pesquisa",
       "desc": "Através deste tutorial poderá personalizar a caixa de busca do Fórum, por exemplo, inserir diversas imagens na caixa e alterar a posição do mesmo.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "56809",
@@ -1236,12 +1213,7 @@
       "subcat": 1,
       "title": "Efeito ao passar o cursor em cima da imagem da barra de navegação",
       "desc": "Este tutorial ensina um efeito interessante que podemos fazer nas imagens de nossos fóruns. O efeito é bem simples e compacto, por isso o mesmo funciona em todas as versões. Basicamente, ele \"sobe\" as imagens dos menus dos fóruns!",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "57330",
@@ -1250,12 +1222,7 @@
       "subcat": 1,
       "title": "Alterar o texto dos itens da barra de navegação",
       "desc": "Com a criação de várias sugestões, os administradores de fóruns não gostam do modo que os links de navegação estão expostos em seus fóruns. Um código que vamos adicionar na folha de estilo .JS vai ajudar-lhe a mudar isso.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "105532",
@@ -1264,12 +1231,7 @@
       "subcat": 1,
       "title": "Personalizar atalho do membro da barra de ferramentas",
       "desc": "Por muitas vezes, queremos chamar atenção com códigos inovados, nesse tutorial iremos aprender a como personalizar a aparência dos itens do atalho do membro da barra de ferramentas.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "115593",
@@ -1278,12 +1240,7 @@
       "subcat": 1,
       "title": "Efeito onda no cabeçalho do fórum",
       "desc": "Nos dias atuais, os usuários da internet têm a tendência de se fascinar com efeitos e detalhes inovadores jamais vistos em execução. Este tutorial tem como objetivo adicionar a animação ondas no topo do seu fórum.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "85270",
@@ -1292,12 +1249,7 @@
       "subcat": 1,
       "title": "Mostrar o avatar do membro na barra de ferramentas",
       "desc": "Com esse tutorial você vai aprender a exibir o avatar do usuário de seu fórum na barra de ferramentas com dois códigos muito rápidos.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "93901",
@@ -1306,12 +1258,7 @@
       "subcat": 1,
       "title": "Criar sub-itens na barra de navegação",
       "desc": "Uma lista de links torna-se fundamental para o desenvolvimento do website, porque através desta lista o internauta pode acessar várias páginas rapidamente, gerando conforto e principalmente tráfego. Neste tutorial, vamos aplicar de forma elegante de menu com links em lista.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "112612",
@@ -1329,12 +1276,7 @@
       "subcat": 1,
       "title": "Criar atalhos para os sub-fóruns na página inicial",
       "desc": "A lista de seções é um sistema que destaca as seções que o fórum possui na mensagem da home-page, fazendo com que todos os usuários que acessarem poderão ver o que existe no fórum e, ao passar o mouse sobre a imagem de cada uma das seções ver uma breve descrição dela.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "104934",
@@ -1343,12 +1285,7 @@
       "subcat": 1,
       "title": "Criar logos aleatórios",
       "desc": "Este tutorial vai ajudar a ensinar-lhe como transformar seu banner fórum em uma apresentação de slides, para que você possa exibir vários banners de uma só vez, em vez de um.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "98382",
@@ -1357,12 +1294,7 @@
       "subcat": 1,
       "title": "Transformar o fundo em um vídeo do youtube",
       "desc": "Com este tutorial, poderá saber como adicionar um vídeo do youtube como fundo do fórum, como se fosse uma imagem normal. Pode ser mais apelativo para fóruns, como por exemplo para fóruns de jogos e animes.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "110558",
@@ -1371,12 +1303,7 @@
       "subcat": 2,
       "title": "Proteção contra owner e XSS nas mensagens e chat",
       "desc": "Impede que usuários enviem mensagens de \"owner\" nos tópicos e chat.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "18467",
@@ -1385,12 +1312,7 @@
       "subcat": 2,
       "title": "Personalizar o cursor do mouse",
       "desc": "Com este tutorial aprenderemos a modificar o cursor do mouse nos nossos fóruns. Para alguns o cursor padrão do computador não agrada, por isso existe a possibilidade de o modificar por meio de códigos. Somente tenha atenção pois terá de tê-lo salvo em alguns formatos diferentes para que possa funcionar com todos os navegadores.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "21534",
@@ -1399,11 +1321,7 @@
       "subcat": 2,
       "title": "Personalizar o fundo dos widgets",
       "desc": "Com a tendência cada vez maior de se ter um tema modificado, se faz necessário algumas modificações simples, como adicionar uma imagem de fundo aos Widgets. Este código irá substituir uma cor de fundo por uma imagem por meio de códigos CSS, mas caso queira poderá explorar muito mais as diversas opções que os códigos CSS nos disponibilizam.",
-      "versions": [
-        2,
-        3,
-        4
-      ]
+      "versions": [2, 3, 4]
     },
     {
       "t": "57067",
@@ -1412,12 +1330,7 @@
       "subcat": 2,
       "title": "Substituir percentagem imagem por texto nos widgets predefinidos",
       "desc": "Esse tutorial tem como objetivo substituir a barra de porcentagem que alguns Widgets predefinidos utilizam pela porcentagem escrita. O tutorial funciona para todos os tipos de fóruns.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "61133",
@@ -1426,12 +1339,7 @@
       "subcat": 2,
       "title": "Tornar o título das \"Novidades\" em hiperligação",
       "desc": "Atualmente, para acessarmos um tópico listado nas novidades do Portal, devemos clicar nos comentários, no link \"Ler Tudo\" (para tópico com um determinado número de caracteres), ou contar com a presença de um link dentro do próprio tópico, que o redirecione para lá. Neste tutorial aprenderemos como tornar o título das novidades em um link, que o levará da mesma forma para o tópico, porém, tornando a função muito mais prática.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "93895",
@@ -1440,12 +1348,7 @@
       "subcat": 2,
       "title": "Mostrar o avatar do membro nos \"Últimos assuntos\"",
       "desc": "A elegância é um dom que a maioria dos Administradores tem com seus fóruns, e com o código a seguir poderemos adicionar o avatar dos usuários em todas as versões no widget de \"Últimos assuntos\".",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "93862",
@@ -1454,12 +1357,7 @@
       "subcat": 2,
       "title": "Adicionar um aviso no chat box",
       "desc": "Este CSS permite-nos adicionar uma mensagem no fundo das mensagens do chat. Com ela, podemos colocar breve regras sobre o funcionamento do mesmo ou então outra mensagem ao gosto.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "83644",
@@ -1468,12 +1366,7 @@
       "subcat": 2,
       "title": "Alterar o prefixo dos moderadores do chat box",
       "desc": "Neste tutorial iremos ensinar como destacar os moderadores do chatbox, retirando o famoso arroba do Nickname e colocando um pré-fixo personalizado para que, desta forma, os moderadores recebam um destaque maior.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "15944",
@@ -1491,12 +1384,7 @@
       "subcat": 3,
       "title": "Colorir os fóruns com novas mensagens",
       "desc": "Esse tutorial irá ensinar como colorir os fóruns quando uma nova mensagem é postada. Segue um exemplo do resultado na versão PhpBB3.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "93959",
@@ -1505,12 +1393,7 @@
       "subcat": 3,
       "title": "Mostrar a descrição do fórum ao passar o cursor",
       "desc": "Com um código simples, podemos visualizar as descrições dos fóruns apenas quando passa o cursor em cima do tal fórum.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "16049",
@@ -1519,12 +1402,7 @@
       "subcat": 4,
       "title": "Personalizar o SCEditor",
       "desc": "As caixas de texto (escrita de uma mensagem) do Fórum, são o ponto de passagem de todos os participantes, desta feita, este tutorial, irá ajudar a tornar as caixas de texto do teu Fórum, mais personalizadas, ao estilo do teu Fórum, tornando-as mais atrativas!",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "23170",
@@ -1542,12 +1420,7 @@
       "subcat": 4,
       "title": "Retirar o \"Ver mais Smileys\"",
       "desc": "Neste tutorial, vamos retirar a caixa de seleção que mostra os outros smilieys que há em seu fórum, com o uso de uma classe e propriedades em CSS.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "17853",
@@ -1583,12 +1456,7 @@
       "subcat": 5,
       "title": "Personalização do spoiler",
       "desc": "Ás vezes quando estamos editando um tema queremos arrumar também o spoiler, assim como a caixa de código e citação. Aqui veremos como fazer isto!",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "30464",
@@ -1597,12 +1465,7 @@
       "subcat": 5,
       "title": "Personalização do código",
       "desc": "As vezes gostaríamos de adicionar algum efeito com imagens, cores ou bordas para assim personalizar a aparência da baliza BBCode código. Neste tutorial irá ver com quais códigos irá se utilizar para obter o efeito desejado, para qualquer que seja a versão em questão.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "78603",
@@ -1620,10 +1483,7 @@
       "subcat": 5,
       "title": "Alterar a posição do rank e do avatar",
       "desc": "Em alguns layouts prontos o rank vem acima do avatar e muitos usuários e administradores têm o costume do uso com o rank abaixo do avatar, neste tutorial veremos como fazer tais alterações utilizando a personalização de templates.",
-      "versions": [
-        1,
-        3
-      ]
+      "versions": [1, 3]
     },
     {
       "t": "73391",
@@ -1632,12 +1492,7 @@
       "subcat": 5,
       "title": "Mostrar as opções da mensagem ao passar o cursor",
       "desc": "Neste tutorial, ficarão dispostos códigos CSS que concedem opacidade nos botões da postagem, tais como editar, citar e afins.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "93905",
@@ -1695,7 +1550,7 @@
       "cat": 7,
       "title": "Alterar o ícone do tópico em modo AJAX",
       "desc": "Por vezes torna-se cansativo ter que editar os tópicos para alterar o ícone dele. Com este tutorial, você poderá diretamente alterar o ícone no topo do tópico. O ícone será alterado pelo o que foi escolhido sem que a página tenha que ser recarregada.",
-      "versions":[0]
+      "versions": [0]
     },
     {
       "t": "112877",
@@ -1807,7 +1662,7 @@
       "cat": 7,
       "title": "Emoticons pessoais por membro",
       "desc": "Muitas vezes não gostamos dos emoticons disponibilizados por certos fóruns. Este tutorial resolverá o problema, pois ele ensinará como permitir que os membros adicionem e usem os seus próprios emoticons pessoais.",
-      "versions":[0]
+      "versions": [0]
     },
     {
       "t": "105897",
@@ -1831,12 +1686,7 @@
       "cat": 7,
       "title": "Esconder a primeira mensagem dos convidados",
       "desc": "Os fóruns hoje em dia querem meio que privilegiar os membros que assim registram no fórum com seus conteúdos. Algumas vezes queremos que algum conteúdo fique oculto aos visitantes e assim para que eles despertem a vontade de registrar e ver o conteúdo. Neste tutorial é isso que iremos ensinar, um meio de esconder a mensagem principal ao visitante.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-    ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "97785",
@@ -1844,13 +1694,7 @@
       "cat": 7,
       "title": "Pesquisa com resultados automáticos",
       "desc": "Nesse tutorial iremos colocar um efeito que ao clicar no botão Busca - localizado no menu, e ao escrever algumas palavras automáticamente aparecerá alguns resultados logo abaixo.",
-      "versions": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
+      "versions": [1, 2, 3, 4, 5]
     },
     {
       "t": "96843",
@@ -1858,12 +1702,7 @@
       "cat": 7,
       "title": "Aplicando foto de capa em tópicos",
       "desc": "Com edição de templates e um pouco de criatividade você poderá obter um efeito exclusivo em fóruns de Forumeiros, a foto de capa no fórum tipo blog. Como já disponibilizamos a mesma para a opção direto no perfil, este novo recurso visa utilizar o mesmo padrão só que, para tópicos do fórum tipo BLOG.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "80640",
@@ -1871,12 +1710,7 @@
       "cat": 7,
       "title": "Ficha de personagem em lightbox",
       "desc": "É comum acedermos ao perfil de algum membro para visualizar sua ficha de personagem, mas, nem sempre temos paciência de esperar a página carregar, então neste tutorial iremos aprender a colocar a ficha de personagem em tooltip, fazendo assim uma apresentação mais rápida e muito mais elegante. Ele funcionará da seguinte forma, ao clicarmos no nome do usuário de algum utilizador o efeito é ativado e a ficha de personagem é automaticamente mostrada.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "86559",
@@ -1884,13 +1718,7 @@
       "cat": 7,
       "title": "Avatar na resposta rápida",
       "desc": "Neste tutorial, aplicaremos um código JavaScript para criar um efeito incrível, permitindo ao usuário a visualizar o avatar do membro ao lado da caixa de respostas rápidas.",
-      "versions": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
+      "versions": [1, 2, 3, 4, 5]
     },
     {
       "t": "86580",
@@ -1914,12 +1742,7 @@
       "cat": 7,
       "title": "Visualizar tópico em modo hover",
       "desc": "Nesse tutorial iremos aplicar um ícone ao lado de cada tópico, onde podemos visualizar a postagem proporcionando a visualização mais rápida dos tópicos, facilitando o nosso tempo e navegação por todo o fórum.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "92125",
@@ -1935,12 +1758,7 @@
       "cat": 7,
       "title": "Context menu para ações nos tópicos",
       "desc": "Neste tutorial, podemos criar um context menu para ações no tópico. Uma ferramenta que permitirá usar funções rapidamente nos tópicos. Editando, citando, excluindo mensagens e tópicos.",
-      "versions": [
-        1,
-        2,
-        3,
-        4
-      ]
+      "versions": [1, 2, 3, 4]
     },
     {
       "t": "91430",
@@ -2047,14 +1865,14 @@
       "versions": [0]
     },
     {
-      "t": "112338",
+      "t": "112339",
       "list": 2,
       "cat": 7,
       "title": "Confirmar a saída da página caso exista uma mensagem no editor",
       "desc": "O que parece ser improvável para alguns, para outros é um inconveniente de clicar acidentalmente em uma hiperligação, ser redirecionado e perder todo o conteúdo da mensagem existe no editor. Com este tutorial vamos dá-lhe a probabilidade de acabar este inconveniente através de uma confirmação a cada clique em uma hiperligação ou caso tente sair da página atual.",
       "versions": [0]
     },
-   {
+    {
       "t": "118292",
       "list": 2,
       "cat": 7,
@@ -2070,7 +1888,7 @@
       "desc": "Escolher entre modo escuro ou claro e dar a possibilidade de escolha a sua comunidade. É um ponto extra na parte visual do fórum. Alterar de forma simples e eficaz através de um seletor existe no fundo do fórum. É compatível com todas as versões Forumeiros.",
       "versions": [0]
     },
-        {
+    {
       "t": "118296",
       "list": 2,
       "cat": 7,
@@ -2078,19 +1896,13 @@
       "desc": "Carregar tópicos usando o Feed RSS dá a possibilidade de carregar todos os tópicos do fórum ou de um determinado subfórum em um módulo personalizado, página HTML ou outro local do fórum. Ótimo para quem quer destacar os anúncios, atualizações ou novidades da comunidade automaticamente.",
       "versions": [0]
     },
-        {
+    {
       "t": "118256",
       "list": 2,
       "cat": 7,
       "title": "Menu na vertical igual AwesomeBB",
       "desc": "Adiciona o menu na lateral, igual a versão AwesomeBB",
-      "versions": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
+      "versions": [1, 2, 3, 4, 5]
     },
     {
       "t": "101070",
@@ -2389,5 +2201,5 @@
       "level": 2
     }
   ],
-  "topic_count": 624
+  "topic_count": 199
 }
